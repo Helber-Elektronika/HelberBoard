@@ -3,8 +3,8 @@
     {
       "name": "Learning Board",
       "maintainer": "Helber Elektronika Indonesia",
-      "websiteURL": "https://github.com/senaalwa/Example/tree/master/helberboard",
-      "email": "email"
+      "websiteURL": "https://www.helber.id/",
+      "email": "contact@helber.id"
       },
       "platforms": [
         {
@@ -12,7 +12,7 @@
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/senaalwa/HelberBoard/archive/refs/heads/master.zip",
+          "url": "https://github.com/Helber-Elektronika/HelberBoard/archive/refs/heads/master.zip",
           "archiveFileName": "helberboard-1.0.0.zip",
           "size": "50016256",
           "help": {
@@ -21,9 +21,6 @@
           "boards": [
             {
               "name": "Learning Board"
-            },          
-            {
-              "name": "Learning Board ESP32"
             }
           ],
           "toolsDependencies": [
