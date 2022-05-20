@@ -1,0 +1,38 @@
+menu.UploadSpeed=Upload Speed
+menu.CPUFreq=CPU Frequency
+menu.FlashFreq=Flash Frequency
+menu.FlashMode=Flash Mode
+menu.FlashSize=Flash Size
+menu.PartitionScheme=Partition Scheme
+menu.DebugLevel=Core Debug Level
+menu.PSRAM=PSRAM
+menu.Revision=Board Revision
+menu.LORAWAN_REGION=LoRaWan Region
+menu.LoRaWanDebugLevel=LoRaWan Debug Level
+
+##############################################################
+###### LEARNING BOARD -PT. HELBER ELEKTRONIKA INDONESIA ######
+##############################################################
+
+helber-learningboard.name=Learning Board
+
+helber-learningboard.upload.tool=esptool_py
+helber-learningboard.upload.maximum_size=1310720
+helber-learningboard.upload.maximum_data_size=327680
+helber-learningboard.upload.wait_for_upload_port=true
+
+helber-learningboard.serial.disableDTR=true
+helber-learningboard.serial.disableRTS=true
+
+helber-learningboard.build.mcu=esp32
+helber-learningboard.build.core=esp32
+helber-learningboard.build.variant=helber-learningboard
+helber-learningboard.build.board=helber-learningboard
+
+helber-learningboard.build.f_cpu=240000000L
+helber-learningboard.build.flash_size=4MB
+helber-learningboard.build.flash_freq=40m
+helber-learningboard.build.flash_mode=dio
+helber-learningboard.build.boot=dio
+helber-learningboard.build.partitions=default
+helber-learningboard.build.defines= 
