@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Learning Board",
+      "name": "helberboard",
       "maintainer": "Helber Elektronika Indonesia",
       "websiteURL": "https://www.helber.id/",
       "email": "contact@helber.id",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "helberboard",
+          "name": "Learning Board",
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "Contributed",
