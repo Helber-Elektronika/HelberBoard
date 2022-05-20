@@ -6,6 +6,9 @@
       "websiteURL": "https://www.helber.id/",
       "email": "contact@helber.id"
       },
+	  "help": {
+        "online": "https://www.helber.id/"
+      },
       "platforms": [
         {
           "name": "helberboard",
