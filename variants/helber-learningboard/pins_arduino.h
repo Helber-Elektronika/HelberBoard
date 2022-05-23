@@ -17,8 +17,8 @@ static const uint8_t RX = 16;
 static const uint8_t SDA = 21;
 static const uint8_t SCL = 22;
 
-static const uint8_t LED_BUILTIN = 5;
-static const uint8_t BUTTON_BUILTIN = 15;
+static const uint8_t LED_BUILTIN = 15;
+static const uint8_t BUTTON_BUILTIN = 5;
 
 static const uint8_t SS    = 2;
 static const uint8_t MOSI  = 23;
@@ -29,10 +29,10 @@ static const uint8_t RESET = 4;
 static const uint8_t A1 = 13;
 static const uint8_t A2 = 25;
 
-static const uint8_t D1 = 12;
-static const uint8_t D2 = 14;
-static const uint8_t D3 = 27;
-static const uint8_t D4 = 26;
+static const uint8_t D1 = 26;
+static const uint8_t D2 = 27;
+static const uint8_t D3 = 14;
+static const uint8_t D4 = 12;
 
 
 #endif /* Pins_Arduino_h */
